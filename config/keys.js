@@ -1,3 +1,4 @@
 module.exports ={
-    mongoURI:'mongodb+srv://yitendra:hackings1@cluster0-zkasq.mongodb.net/test?retryWrites=true'
+    mongoURI:'mongodb+srv://yitendra:hackings1@cluster0-zkasq.mongodb.net/test?retryWrites=true',
+    secretOrKey:'secret'
 };
